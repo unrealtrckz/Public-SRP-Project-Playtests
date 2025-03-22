@@ -1,6 +1,18 @@
 # Public-SRP-Project-Playtests
 Created for play-testers to test my SRP project and provide feedback
 
+**How to Play**
+This game is a rogue-like dungeon-crawler. There is no end in sight; Play as long as you can.
+
+**Controls
+- You can play with either Keyboard, Keyboard and Mouse, or Controller
+- WASD or Arrow Keys (Keyboard) or Left Joystick (Gamepad) to Move
+- "E" (Keyboard) or Button South (Gamepad) to Interact with *Weapons, Health Potions, or The Staircase*
+- "Space" (Keyboard) or Left Click (Mouse) or Right Trigger (Gamepad) to Attack
+- "Shift" (Keyboard) or Button East (Gamepad) to Dash
+- "X" (Keyboard) or Button North (Gamepad) to Disable Mouse
+- "V" (Keyboard) or Button West (Gamepad) to Toggle the FPS from Uncapped to 60 FPS to 30 FPS
+
 Copyright © 2025 UnrealTrckz. All Rights Reserved.
 
 This game, including all source code, assets, graphics, audio, and related materials, is the exclusive property of UnrealTrckz.
