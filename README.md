@@ -12,6 +12,7 @@ This game is a rogue-like dungeon-crawler. There is no end in sight; Play as lon
 - "Shift" (Keyboard) or Button East (Gamepad) to Dash
 - "X" (Keyboard) or Button North (Gamepad) to Disable Mouse
 - "V" (Keyboard) or Button West (Gamepad) to Toggle the FPS from Uncapped to 60 FPS to 30 FPS
+- "Escape" (Keyboard) or D-Pad West (Gamepad) to open Pause Menu and return to Main Menu
 
 Copyright © 2025 UnrealTrckz. All Rights Reserved.
 
