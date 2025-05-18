@@ -9,9 +9,10 @@ This game is a rogue-like dungeon-crawler. There is no end in sight; Play as lon
 - WASD or Arrow Keys (Keyboard) or Left Joystick (Gamepad) to Move
 - "E" (Keyboard) or Button South (Gamepad) to Interact with *Weapons, Health Potions, or The Staircase*
 - "Space" (Keyboard) or Left Click (Mouse) or Right Trigger (Gamepad) to Attack
-- "Shift" (Keyboard) or Button East (Gamepad) or Left Trigger (Gamepad) to Dash
+- "Shift" (Keyboard) or Button East (Gamepad) to Dash
+- "X" (Keyboard) or Button North (Gamepad) to Disable Mouse
 - "V" (Keyboard) or Button West (Gamepad) to Toggle the FPS from Uncapped to 60 FPS to 30 FPS
-- "Escape" (Keyboard) or Select (Gamepad) to open Pause Menu
+- "Escape" (Keyboard) or D-Pad West (Gamepad) to open Pause Menu and return to Main Menu
 
 Copyright © 2025 UnrealTrckz. All Rights Reserved.
 
